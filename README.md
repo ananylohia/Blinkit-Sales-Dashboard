@@ -205,3 +205,10 @@ This project aims to develop a comprehensive Power BI dashboard to analyze Blink
 
 ## Conclusion
 The Blinkit Analysis Dashboard provides a detailed and comprehensive view of Blinkit's sales performance, customer satisfaction, and inventory distribution. By leveraging various visualizations and KPIs, the dashboard offers actionable insights that can drive strategic business decisions and optimize overall performance. The structured approach to building the dashboard ensures data accuracy and relevance, making it a valuable tool for stakeholders.
+
+
+## 🧑‍💻 Author
+
+**Anany Lohia**  
+Final Year ECE @ NIT Jamshedpur  
+📬 [LinkedIn](https://www.linkedin.com/in/ananyakrlohia/) | ✉️ [Email](mailto:ananyatworkk@gmail.com)
